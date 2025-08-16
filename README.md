@@ -1,5 +1,3 @@
-🎁 Amigo Secreto
-
 Aplicación web sencilla para organizar un sorteo de Amigo Secreto entre un grupo de personas.
 Permite ingresar nombres, listarlos y realizar el sorteo de manera aleatoria.
 
